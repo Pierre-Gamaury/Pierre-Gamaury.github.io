@@ -271,3 +271,9 @@ footer a {
 .img2 {
   background: url(./asset/img/Road.jpg) center/cover;
 }
+
+/* @media screen and (max-width: 1600px) {
+  body {
+    max-width: 1600px;
+  }
+} */
