@@ -223,7 +223,7 @@ header h2 {
 }
 .project img {
   transition: 0.4s ease-in-out;
-  width: 100%;
+  width: 95%;
 }
 .project:hover img {
   filter: brightness(20%);
@@ -271,9 +271,3 @@ footer a {
 .img2 {
   background: url(./asset/img/Road.jpg) center/cover;
 }
-
-/* @media screen and (max-width: 1600px) {
-  body {
-    max-width: 1600px;
-  }
-} */
